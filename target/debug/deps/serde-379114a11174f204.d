@@ -1,0 +1,14 @@
+/Users/quietpupil/Projects/Largest File Finder and Search/target/debug/deps/serde-379114a11174f204.d: /Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/quietpupil/Projects/Largest\ File\ Finder\ and\ Search/target/debug/build/serde-954f2aba67da5e2d/out/private.rs
+
+/Users/quietpupil/Projects/Largest File Finder and Search/target/debug/deps/libserde-379114a11174f204.rlib: /Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/quietpupil/Projects/Largest\ File\ Finder\ and\ Search/target/debug/build/serde-954f2aba67da5e2d/out/private.rs
+
+/Users/quietpupil/Projects/Largest File Finder and Search/target/debug/deps/libserde-379114a11174f204.rmeta: /Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/quietpupil/Projects/Largest\ File\ Finder\ and\ Search/target/debug/build/serde-954f2aba67da5e2d/out/private.rs
+
+/Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/quietpupil/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/quietpupil/Projects/Largest\ File\ Finder\ and\ Search/target/debug/build/serde-954f2aba67da5e2d/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/quietpupil/Projects/Largest File Finder and Search/target/debug/build/serde-954f2aba67da5e2d/out
